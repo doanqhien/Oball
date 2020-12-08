@@ -1,0 +1,48 @@
+.body {
+    height: 100%;
+}
+.navbar {
+    height: 10%;
+    
+}
+.card-footer {
+    height:10%;
+}
+.container-fluid {
+    height: 80%;
+}
+.card1 {
+    width: 50%;
+}
+.card2 {
+    width:50%;
+}
+.card-title1 {
+    padding-top:55px;
+}
+
+.form-group3 {
+    padding-top:55px;
+}
+
+.form-group1 {
+    
+    padding-top:55px;
+    width:70%;
+}
+
+.form-group2 {
+    padding-top:5px;
+    width:70%;
+}
+
+.form-group4 {
+    padding-top:55px;
+    width:70%;
+}
+
+.form-group5 {
+    padding-top:90px;
+}
+
+
